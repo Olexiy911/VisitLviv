@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Visit Lviv</string>
+
+    <!-- TODO: The program will start with Top Attr page -->
+    <string name="top_attractions">Top Attractions</string>
+
+    <string name="tourist_info">Tourist Info</string>
+    <string name="communication">Communication</string>
+    <string name="lviv_attractions">Lviv Attractions</string>
+    <string name="art_museums">Art and Museums</string>
+    <string name="theatre_cinema">Theatre and Cinema</string>
+    <string name="food_drink">Food and Drink</string>
+    <string name="sleep">Sleep</string>
+    <string name="shoping_markets">Shoping and Markets</string>
+    <string name="park">Park</string>
+    <string name="nightlife">Nightlife</string>
+    <string name="kids">Kids</string>
+    <string name="outside_lviv">Outside Lviv</string>
+
+    <!-- TODO: This is  name of PlaceActivity-->
+    <string name="place_activity">Place</string>
+</resources>

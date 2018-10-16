@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tablayout_color">#ffffff</color>
+
+    <color name="tablayout_text_color">#414141</color>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="tab_indicator_color">#388E3C</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rynok_square">Rynok Square</string>
+    <string name="town_hall">Town Hall</string>
+    <string name="lviv_opera_house">Lviv Opera House</string>
+    <string name="the_palace_of_counts_potockis">The Palace of Counts Potockis</string>
+    <string name="the_chapel_of_the_boim_family">The Chapel of The Boim Family</string>
+    <string name="the_dominican_church">The Dominican Church</string>
+    <string name="the_bernardine_monastery">The Bernandine Monastery</string>
+    <string name="italian_courtyard">Italian Courtyard</string>
+    <string name="the_high_castle_park">The High Castle Park</string>
+    <string name="lychakiv_cemetery">Lychakiv Cemetery</string>
+
+    <string name="lviv_sheptitsky_national_museum">Lviv Sheptitsky National Museum</string>
+    <string name="museum_pharmacy">Museum Pharmacy</string>
+    <string name="museum_of_national_folk">Shevchenkivsky Hay</string>
+    <string name="lviv_art_gallery">Lviv Art Gallery</string>
+    <string name="the_palace_of_arts">The Palace of Arts</string>
+
+    <string name="king_cross_leopolis">King Cross Leopolis</string>
+    <string name="opera_passage">Opera Passage</string>
+    <string name="victoria_gardens">Victoria Gardens</string>
+    <string name="forum_lviv">Forum Lviv</string>
+
+    <string name="stryisky_park">Stryisky Park</string>
+    <string name="ivan_franko_park">Ivan Franko Park</string>
+    <string name="culture_and_rest_park">Culture and Rest Park</string>
+    <string name="botanic_garden_of_lviv_university">Botanic Garden of Lviv University</string>
+</resources>
